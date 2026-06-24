@@ -21,7 +21,7 @@ Aqui está o sumário em tempo real das minhas atividades e conquistas no ecossi
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaovictorximenes0-eng&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=radical&langs_count=6" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorximenes0-eng&layout=compact&theme=radical&langs_count=6" />
 </p>
 
 ---
