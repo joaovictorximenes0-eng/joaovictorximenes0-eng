@@ -28,6 +28,6 @@ Aqui está o sumário em tempo real das minhas atividades e conquistas no ecossi
 
 ### 🏆 Conquistas em Destaque
 
-* 🚀 **Smart Resume Generator:** Desenvolvi um motor em Python que analisa vagas via processamento de texto e gera currículos sob medida em PDF/A4 (meu projeto xodó atual!).
+* 🚀 **Smart Resume Generator:** Desenvolvi um motor em Python que analisa vagas via processamento de texto e gera currículos sob medida em PDF/A4.
 * 🦠 **Pipeline ETL COVID-19:** Tratamento de dados públicos massivos e integração analítica com Power BI.
 * 🤖 **CompetiTech (UERJ):** Desenvolvendo sistemas embarcados e robôs para competições educacionais.
