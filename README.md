@@ -15,7 +15,7 @@ Desenvolvedor Full-Stack & Engenheiro de Dados em formação na UERJ. Fascinado 
 
 ---
 
-### 📊 Estatísticas de Jogo (GitHub Status)
+### 📊 GitHub Status
 
 Aqui está o sumário em tempo real das minhas atividades e conquistas no ecossistema:
 
